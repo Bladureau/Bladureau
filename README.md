@@ -10,7 +10,7 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 
 ## IDE utilisés
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,arduino,idea,phpstorm,pycharm,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,arduino,idea,phpstorm,pycharm)](https://skillicons.dev)
 
 ## Langages
 
