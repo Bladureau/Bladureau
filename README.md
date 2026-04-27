@@ -14,7 +14,7 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 
 ## Langages
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,php,py,react,ruby)](https://skillicons.dev)
 
 ## Outils
-[![My Skills](https://skillicons.dev/icons?i=git,mysql,grafana,linux,windows,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,mysql,grafana,linux,windows,figma,postman)](https://skillicons.dev)
